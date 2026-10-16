@@ -8,6 +8,7 @@ st.set_page_config(
 )
 
 st.title("🔎 Multi-Agent Research Assistant")
+st.caption("Developed by Prashant Kale")
 st.caption("Search → Reader → Writer")
 
 st.markdown(
